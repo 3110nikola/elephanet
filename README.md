@@ -1,6 +1,6 @@
 # Elephanet
 
-Elephanet is a front-end project that simulates a social media website built with React, ViteJS, ChakraUI, and Firebase. It offers functionalities such as user registration, login, profile picture management, posting content, and interacting with posts through comments.
+Elephanet is a full stack project that simulates a social media website built with React, ViteJS, ChakraUI, and Firebase. It offers functionalities such as user registration, login, profile picture management, posting content, and interacting with posts through comments.
 
 ## Functionality
 
